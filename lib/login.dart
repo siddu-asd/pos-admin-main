@@ -25,7 +25,7 @@ class _LoginState extends State<Login> {
             borderRadius: BorderRadius.circular(20.0), // Border radius
             boxShadow: [
               BoxShadow(
-                color: Colors.black.withOpacity(0.8), // Shadow color
+                color: Colors.black.withOpacity(0.5), // Shadow color
                 spreadRadius: 5, // Spread radius
                 blurRadius: 10, // Blur radius
                 offset: const Offset(
